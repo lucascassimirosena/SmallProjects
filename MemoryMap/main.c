@@ -13,7 +13,7 @@
 
 int main()
 {
-
+/*
     int i = 1;
     while(i < 10)
     {
@@ -220,11 +220,16 @@ int main()
 
     }
     
+*/
 
+//Teste
 
+char teste[50];
 
+printf(": ");
+gets(teste);
 
-
+printf("%s", teste[2]);
 
 
 
